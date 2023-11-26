@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ammaar
 - 👀 I’m interested in data science and analytics
-- 📚 I’m currently learning some Swift on the side and Algorithms, Data Structures and their Applications
+- 📚 I’m currently learning DBMS, react, SQL, and PHP
 - 🔧 Knowledgeable in Java, Python, & R
 - 📫 Reach me @ LinkedIn: https://www.linkedin.com/in/ammaarmelethil/
 
