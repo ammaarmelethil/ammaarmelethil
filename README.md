@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ammaar
-- 👀 I’m interested in data science and analytics
+- 👀 I’m interested in data science and ML/AI
 - 📚 I’m currently learning DBMS, react, SQL, and PHP
 - 🔧 Knowledgeable in Java, Python, & R
 - 📫 Reach me @ LinkedIn: https://www.linkedin.com/in/ammaarmelethil/
