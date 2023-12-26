@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ammaar
 - 👀 I’m interested in data science and ML/AI
-- 📚 I’m currently learning DBMS, react, SQL, and PHP
-- 🔧 Knowledgeable in Java, Python, & R
+- 📚 I’m currently doing a course on ML/AI Engineering @Codecademy
+- 🔧 Knowledgeable in Java, Python (Pandas, NumPy, Scikit-Learn, TensorFlow), & R
 - 📫 Reach me @ LinkedIn: https://www.linkedin.com/in/ammaarmelethil/
 
 <!---
