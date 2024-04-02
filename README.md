@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ammaar
 - 👀 I’m interested in creating AI and ML tools
-- 📚 I’m currently doing a course on ML/AI Engineering @Codecademy
+- 📚 I’m currently studying Economics and Computer Science @UofC
 - 🔧 Knowledgeable in Java, Python (Pandas, NumPy, Scikit-Learn, TensorFlow), & R
 
 <!---
