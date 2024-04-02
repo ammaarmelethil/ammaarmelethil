@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ammaar
-- 👀 I’m interested in data science and ML/AI
+- 👀 I’m interested in created AI and ML tools
 - 📚 I’m currently doing a course on ML/AI Engineering @Codecademy
 - 🔧 Knowledgeable in Java, Python (Pandas, NumPy, Scikit-Learn, TensorFlow), & R
 
